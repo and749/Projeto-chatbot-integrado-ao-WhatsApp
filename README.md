@@ -1,1 +1,2 @@
-# Projeto-de-imers-o-para-o-certificado
+# Projeto-de-imersao
+# sera um chat integrado ao WhatsApp para atendimento aos clientes 
